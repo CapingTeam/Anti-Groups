@@ -17,6 +17,7 @@ Anti Groups was made for educational purposes, therefor all consequences caused 
 
 ## <a id="deploys"></a>☄ » Deploys
 > [Deploy with REPLIT](https://replit.com/github/CappingTeam/Anti-Groups)
+
 > [Deploy with HEROKU](https://www.heroku.com/deploy/?template=https://github.com/CappingTeam/Anti-Groups)  
 
 ## <a id="features"></a>🛠 » Features
