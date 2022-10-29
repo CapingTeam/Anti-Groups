@@ -29,7 +29,7 @@ Anti Groups was made for educational purposes, therefor all consequences caused 
 > + More!
 ```
 
-## <a id="setup"></a> 📁 » Setting up Nuker
+## <a id="setup"></a> 📁 » Setting up Anti Groups
 
 1. Install [Nodejs](https://nodejs.org/)
 2. Open up [config.js](https://github.com/CappingTeam/Anti-Groups/blob/main/config.js) with notepad or some other editor
